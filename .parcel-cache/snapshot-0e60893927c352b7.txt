@@ -2,7 +2,7 @@
 89C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\modules\es.typed-array.uint32-array.js134248568753488638 0
 87C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\features\typed-array\uint32-array.js134248568831351829 0
 89C:\Users\HP\Downloads\ucp3iot\node_modules\@swc\helpers\cjs\_class_private_method_get.cjs134248568705700617 0
-34C:\Users\HP\Downloads\ucp3iot\dist134248571856815394 1
+34C:\Users\HP\Downloads\ucp3iot\dist134248580573482377 1
 64C:\Users\HP\Downloads\ucp3iot\node_modules\ordered-binary\assets134248568698992883 1
 74C:\Users\HP\Downloads\ucp3iot\node_modules\lmdb\dependencies\lz4\lib\lz4.c134248568706214463 0
 86C:\Users\HP\Downloads\ucp3iot\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map134248568703834327 0
@@ -28,7 +28,7 @@
 99C:\Users\HP\Downloads\ucp3iot\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0134248568707751691 1
 65C:\Users\HP\Downloads\ucp3iot\node_modules\dayjs\esm\locale\fa.js134248568715645928 0
 66C:\Users\HP\Downloads\ucp3iot\node_modules\@parcel\watcher\LICENSE134248568689405605 0
-47C:\Users\HP\Downloads\ucp3iot\package-lock.json134248568846983018 0
+47C:\Users\HP\Downloads\ucp3iot\package-lock.json134248580436922037 0
 84C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\stable\string\virtual\includes.js134248568781650828 0
 58C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\es\max.js134248568735422061 0
 63C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\src\descend.js134248568728308030 0
@@ -39,7 +39,7 @@
 61C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\es\append.js134248568724339392 0
 79C:\Users\HP\Downloads\ucp3iot\node_modules\utility-types\dist\mapped-types.d.ts134248568701904027 0
 96C:\Users\HP\Downloads\ucp3iot\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js134248568700534144 0
-42C:\Users\HP\Downloads\ucp3iot\node_modules134248568847767175 1
+42C:\Users\HP\Downloads\ucp3iot\node_modules134248580435751797 1
 56C:\Users\HP\Downloads\ucp3iot\node_modules\@parcel\types134248568692764614 1
 65C:\Users\HP\Downloads\ucp3iot\node_modules\dayjs\esm\locale\uz.js134248568734990923 0
 94C:\Users\HP\Downloads\ucp3iot\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1134248568704011399 0
@@ -71,7 +71,7 @@
 56C:\Users\HP\Downloads\ucp3iot\node_modules\tslib\modules134248568698312429 1
 89C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\stable\typed-array\to-locale-string.js134248568824217746 0
 76C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\features\set-immediate.js134248568812693261 0
-49C:\Users\HP\Downloads\ucp3iot\src\acquisitions.js134248571484653601 0
+49C:\Users\HP\Downloads\ucp3iot\src\acquisitions.js134248580233965472 0
 65C:\Users\HP\Downloads\ucp3iot\node_modules\dayjs\esm\locale\sw.js134248568732917470 0
 70C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\full\weak-map\of.js134248568803335604 0
 81C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\full\array\virtual\iterator.js134248568793205175 0
@@ -86,7 +86,7 @@
 48C:\Users\HP\Downloads\ucp3iot\node_modules\ramda134248568746844164 1
 78C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\proposals\array-flat-map.js134248568713761272 0
 83C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\features\object\define-getter.js134248568737086937 0
-44C:\Users\HP\Downloads\ucp3iot\src\index.html134248568511462185 0
+44C:\Users\HP\Downloads\ucp3iot\src\index.html134248579597641315 0
 65C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\src\applySpec.js134248568724657768 0
 62C:\Users\HP\Downloads\ucp3iot\node_modules\type-fest\base.d.ts134248568695398901 0
 67C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\features\btoa.js134248568729083081 0
@@ -104,7 +104,7 @@
 83C:\Users\HP\Downloads\ucp3iot\node_modules\utility-types\dist\functional-helpers.js134248568692004530 0
 79C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\full\map\update-or-insert.js134248568832934539 0
 70C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\full\array\slice.js134248568815048966 0
-61C:\Users\HP\Downloads\ucp3iot\node_modules\.package-lock.json134248568847767175 0
+61C:\Users\HP\Downloads\ucp3iot\node_modules\.package-lock.json134248580437478803 0
 114C:\Users\HP\Downloads\ucp3iot\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd134248568837458482 0
 76C:\Users\HP\Downloads\ucp3iot\node_modules\dayjs\esm\plugin\weekday\index.js134248568726901925 0
 85C:\Users\HP\Downloads\ucp3iot\node_modules\@babel\runtime\helpers\arrayLikeToArray.js134248568698992883 0
@@ -133,7 +133,7 @@
 69C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\full\math\index.js134248568785674900 0
 74C:\Users\HP\Downloads\ucp3iot\node_modules\caniuse-lite\data\regions\CY.js134248568730917378 0
 74C:\Users\HP\Downloads\ucp3iot\node_modules\uuid\dist\esm-node\stringify.js134248568704819874 0
-48C:\Users\HP\Downloads\ucp3iot\node_modules\@lmdb134248568845305585 1
+48C:\Users\HP\Downloads\ucp3iot\node_modules\@lmdb134248580435829882 1
 61C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\src\pipeP.js134248568739982607 0
 59C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\es\init.js134248568732240274 0
 74C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\modules\es.parse-int.js134248568748754388 0
@@ -144,7 +144,7 @@
 62C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\src\filter.js134248568730068348 0
 97C:\Users\HP\Downloads\ucp3iot\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h134248568694714506 0
 78C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\stable\date\to-primitive.js134248568824877305 0
-60C:\Users\HP\Downloads\ucp3iot\node_modules\@msgpackr-extract134248568845305585 1
+60C:\Users\HP\Downloads\ucp3iot\node_modules\@msgpackr-extract134248580435829882 1
 67C:\Users\HP\Downloads\ucp3iot\node_modules\@parcel\watcher\index.js134248568707780231 0
 63C:\Users\HP\Downloads\ucp3iot\node_modules\weak-lru-cache\tests134248568694953037 1
 59C:\Users\HP\Downloads\ucp3iot\node_modules\term-size\vendor134248568694127552 1
@@ -158,14 +158,14 @@
 79C:\Users\HP\Downloads\ucp3iot\node_modules\@swc\helpers\esm\_sliced_to_array.js134248568725278160 0
 88C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\stable\dom-exception\to-string-tag.js134248568826970905 0
 74C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\stable\set-immediate.js134248568812764084 0
-50C:\Users\HP\Downloads\ucp3iot\node_modules\@parcel134248568845315842 1
+50C:\Users\HP\Downloads\ucp3iot\node_modules\@parcel134248580435829882 1
 63C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\src\product.js134248568740308655 0
 61C:\Users\HP\Downloads\ucp3iot\node_modules\chrome-trace-event134248568694777895 1
 91C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\features\string\virtual\code-point-at.js134248568730983465 0
 75C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\actual\typed-array\of.js134248568802933873 0
 63C:\Users\HP\Downloads\ucp3iot\node_modules\ramda\es\addIndex.js134248568718345833 0
 74C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\full\iterator\filter.js134248568766137543 0
-47C:\Users\HP\Downloads\ucp3iot\node_modules\@swc134248568845315842 1
+47C:\Users\HP\Downloads\ucp3iot\node_modules\@swc134248580435809674 1
 77C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\full\date\to-iso-string.js134248568823805585 0
 74C:\Users\HP\Downloads\ucp3iot\node_modules\caniuse-lite\data\regions\BO.js134248568712392310 0
 87C:\Users\HP\Downloads\ucp3iot\node_modules\core-js\modules\es.typed-array.int8-array.js134248568752879117 0
@@ -9119,6 +9119,6 @@
 74C:\Users\HP\Downloads\ucp3iot\node_modules\.bin\update-browserslist-db.ps1134248568837373169 0
 56C:\Users\HP\Downloads\ucp3iot\node_modules\.bin\uuid.cmd134248568837427130 0
 56C:\Users\HP\Downloads\ucp3iot\node_modules\.bin\uuid.ps1134248568837427130 0
-45C:\Users\HP\Downloads\ucp3iot\dist\index.html134248571855913198 0
-54C:\Users\HP\Downloads\ucp3iot\dist\ucp3iot.ee3750bf.js134248571856610781 0
-58C:\Users\HP\Downloads\ucp3iot\dist\ucp3iot.ee3750bf.js.map134248571856777834 0
+45C:\Users\HP\Downloads\ucp3iot\dist\index.html134248580573292366 0
+54C:\Users\HP\Downloads\ucp3iot\dist\ucp3iot.ee3750bf.js134248580573315398 0
+58C:\Users\HP\Downloads\ucp3iot\dist\ucp3iot.ee3750bf.js.map134248580573479339 0
